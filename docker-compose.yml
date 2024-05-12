@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  bot:
+    image: ia24-assigments-bot
+    build:
+      context: .
+      dockerfile: ./Dockerfile

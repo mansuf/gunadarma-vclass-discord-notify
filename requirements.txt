@@ -1,0 +1,7 @@
+discord.py
+django
+mysqlclient
+bs4
+uvloop
+tzdata
+lxml
